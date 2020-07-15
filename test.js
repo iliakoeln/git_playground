@@ -3,5 +3,3 @@
 var today = Date();
 
 console.log(today.getHours());
-
-// new comment
